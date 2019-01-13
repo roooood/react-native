@@ -74,8 +74,7 @@ global.DeviceHeight = Dimensions.get("window").height;
 global.DeviceWidth = Dimensions.get("window").width;
 
 //Custom
-// global.Url = "http://192.168.5.107:9090/offfood_new/api/";
-global.Url = "http://offfood.com/api/";
+global.Url = "#";
 
 import ActionSheet from "react-native-actionsheet";
 global.ActionSheet = ActionSheet;
